@@ -1,0 +1,38 @@
+.container-fluid{
+  background-image: url(img/backgImage.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 75vh;
+  opacity: 0.9;
+  color: white;
+  background-attachment: fixed;
+  background-color: black;
+}
+
+button:hover{
+  color: black !important;
+  border-color: black !important;
+  border-style: solid;
+}
+
+.container-xxl{
+  background-color: rgb(236, 234, 234) !important;
+}
+
+.container-xxl p{
+  text-align: justify !important;
+  
+}
+
+.row{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+#p1{
+  padding-left: 20%;
+}
+
+#p2{
+  padding-right: 20%;
+}
